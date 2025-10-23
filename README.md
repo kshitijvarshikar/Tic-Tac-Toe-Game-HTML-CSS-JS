@@ -45,6 +45,9 @@ Tic-Tac-Toe-Game-HTML-CSS-JS/
 
 No installation or server setup is required.
 
+🌐 Live Demo
+Try the Tic-Tac-Toe game online: Click here https://kshitijvarshikar.github.io/Tic-Tac-Toe-Game-HTML-CSS-JS/
+
 📈 Future Enhancements
 
 - Add single-player (AI) mode  
